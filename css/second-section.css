@@ -6,6 +6,10 @@ body section:nth-of-type(2) div.section-content{
     padding-top:1em;
 }
 
+body section:nth-of-type(2) a{
+    color:black;
+}
+
 body section:nth-child(2) h2{
     margin-top:3em;
     margin-bottom:2em;
