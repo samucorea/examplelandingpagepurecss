@@ -20,3 +20,8 @@ textarea, input, button {
     font-weight: bold;
     margin:0;
 }
+
+p{
+    font-size: .9rem;
+    text-align: justify;
+}
