@@ -1,0 +1,70 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+body section:first-child{
+    background-color:rgb(2, 31, 56);
+    color:white;
+}
+
+
+.brand{
+    display:block;
+    font-size:2.5rem;
+    padding-left:1em;
+    padding-top:.5em;
+}
+
+.section-content{
+    width:55%;
+    margin: 0 auto;
+    padding-top:8em;
+}
+
+
+.content h3{
+    margin-bottom:.5em;
+}
+
+.input-boxes{
+    display:flex;
+    align-items: center;
+}
+
+.input-boxes > label {
+   margin:1em;
+}
+
+.phone-number{
+    line-height:3.5rem;
+    border-radius: .5em;
+    width:20em;
+}
+
+.input-boxes > label:first-child{
+    margin-left:0;
+}
+
+button.next-button{
+    display:block;
+    cursor:pointer;
+    margin: 1em 1em 1em 0;
+    padding:1em;
+    width:15em;
+    box-shadow: 0px .5em black;
+    border-radius:2em;
+    font-weight: bold;
+}
+
+button.next-button:active{
+    background-color: rgb(4, 4, 56);
+    color:white;
+}
+
+.login{
+    padding-top:1.5em;
+}
+.login > div:first-child{
+     margin-bottom:.5em;
+}
+

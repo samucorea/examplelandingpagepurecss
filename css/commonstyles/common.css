@@ -1,0 +1,22 @@
+section{
+   min-height:50em;
+}
+a{
+    color:white;
+    text-decoration: underline;
+}
+
+textarea, input, button { 
+    border:none;
+    outline:none;
+ }
+
+ h2{
+     font-weight: bold;
+ }
+
+ h1{
+    font-size:4rem;
+    font-weight: bold;
+    margin:0;
+}
